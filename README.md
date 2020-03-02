@@ -1,6 +1,6 @@
 # hello-world
 just another repository
 
-
-
-I'm learning coding as a hobby that was recommended to me by the love of my life.
+Update: 2 March 2020
+Learning C++, C#, Java and VB.NET. As soon as graudation comes which will be in maybe a year or so. I will start JavaScript projects
+to add to this repository :)
